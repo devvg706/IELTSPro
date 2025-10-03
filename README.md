@@ -132,7 +132,7 @@ Below are the images included in `public/screenshots/`.
 
 "Glow & Motion: small interactions that make the experience feel premium"
 
-![Hero](/public/screenshots/hero.png)
+![Hero](/public/screenshots/Screenshot (254).png)
 
 ![Features](/public/screenshots/features.png)
 
