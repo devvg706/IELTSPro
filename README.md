@@ -1,5 +1,5 @@
 # IELTSPro — Landing Page (React + Vite)
-
+Live demo: https://ielts-pro-tau.vercel.app/
 A modern, dark-themed landing page for an IELTS coaching product built with React, Vite and Tailwind. This repo contains reusable UI pieces (cards, marquee, morphing text, globe, particles, etc.) and small visual components used throughout the site.
 
 ## What you'll find here
@@ -146,7 +146,7 @@ Below are the screenshots placed in `public/screenshots/` (they were uploaded wi
 
 ---
 
-Live demo: https://ielts-pro-tau.vercel.app/
+
 
 ---
 
