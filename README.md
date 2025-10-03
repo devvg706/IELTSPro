@@ -132,17 +132,17 @@ Below are the screenshots placed in `public/screenshots/` (they were uploaded wi
 
 "Glow & Motion: small interactions that make the experience feel premium"
 
-![Hero](/public/screenshots/Screenshot%20(254).png)
+![Hero](/public/screenshots/Screenshot%20(260).png)
 
-![Feature cards](/public/screenshots/Screenshot%20(255).png)
+![Feature cards](/public/screenshots/Screenshot%20(261).png)
 
-![Mentors](/public/screenshots/Screenshot%20(256).png)
+![Mentors](/public/screenshots/Screenshot%20(262).png)
 
-![Testimonials](/public/screenshots/Screenshot%20(257).png)
+![Testimonials](/public/screenshots/Screenshot%20(263).png)
 
-![Decorative cubes](/public/screenshots/Screenshot%20(258).png)
+![Decorative cubes](/public/screenshots/Screenshot%20(264).png)
 
-![Gallery / extra](/public/screenshots/Screenshot%20(259).png)
+![Gallery / extra](/public/screenshots/Screenshot%20(265).png)
 
 ---
 
@@ -158,7 +158,3 @@ Live demo: https://ielts-pro-tau.vercel.app/
 
 ---
 
-If you'd like, I can now:
-
-- Embed all attached screenshots into `public/screenshots/` and enable them in the README (I will save the five images from your attachments and update the README to show them).
-- Or add only selected screenshots — tell me which ones.
