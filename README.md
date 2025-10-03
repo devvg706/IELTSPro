@@ -18,7 +18,7 @@ These steps assume you have Node.js (16+) and npm installed.
 1. Clone the repo and install dependencies
 
 ```powershell
-git clone <your-repo-url> ; cd IELTS ; npm install
+git clone https://github.com/devvg706/IELTSPro.git ; cd IELTS ; npm install
 ```
 
 2. Start development server
@@ -126,18 +126,11 @@ A few screenshots from the landing page to give you a quick visual impression.
 
 "Glow & Motion: small interactions that make the experience feel premium"
 
-Below are the images expected in `public/screenshots/` (I can add the attached screenshots into this folder and enable the embedded images in the README if you want):
+Below are the images included in `public/screenshots/`.
 
-- `public/screenshots/hero.png` — Hero section with morphing title and circular band
-- `public/screenshots/features.png` — Feature cards section
-- `public/screenshots/mentors.png` — Mentor cards with glow
-- `public/screenshots/testimonials.png` — Testimonials/accordion area
-- `public/screenshots/gallery.png` — Decorative cubes and site visuals
-
-Example Markdown to show them in the README (I'll enable these after you confirm I should import the images):
-
-<!--
 ## Some sights from my website
+
+"Glow & Motion: small interactions that make the experience feel premium"
 
 ![Hero](/public/screenshots/hero.png)
 
@@ -148,7 +141,10 @@ Example Markdown to show them in the README (I'll enable these after you confirm
 ![Testimonials](/public/screenshots/testimonials.png)
 
 ![Gallery](/public/screenshots/gallery.png)
--->
+
+---
+
+Live demo: https://ielts-pro-tau.vercel.app/
 
 ---
 
