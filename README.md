@@ -126,21 +126,23 @@ A few screenshots from the landing page to give you a quick visual impression.
 
 "Glow & Motion: small interactions that make the experience feel premium"
 
-Below are the images included in `public/screenshots/`.
+Below are the screenshots placed in `public/screenshots/` (they were uploaded with their original filenames).
 
 ## Some sights from my website
 
 "Glow & Motion: small interactions that make the experience feel premium"
 
-![Hero](/public/screenshots/Screenshot (254).png)
+![Hero](/public/screenshots/Screenshot%20(254).png)
 
-![Features](/public/screenshots/features.png)
+![Feature cards](/public/screenshots/Screenshot%20(255).png)
 
-![Mentors](/public/screenshots/mentors.png)
+![Mentors](/public/screenshots/Screenshot%20(256).png)
 
-![Testimonials](/public/screenshots/testimonials.png)
+![Testimonials](/public/screenshots/Screenshot%20(257).png)
 
-![Gallery](/public/screenshots/gallery.png)
+![Decorative cubes](/public/screenshots/Screenshot%20(258).png)
+
+![Gallery / extra](/public/screenshots/Screenshot%20(259).png)
 
 ---
 
